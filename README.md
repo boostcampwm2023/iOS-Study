@@ -25,14 +25,56 @@ iOS 스터디를 진행하면서 학습한 내용을 기록하는 Repository입�
     - 원본 기록 후 답변을 못하것들이나 답변한 것중 수정 할 부분들을 원본 답변 밑에 업데이트
         - Q. iOS를 왜 선택하셧나요 ? A. 답변 못함
         - → A. 애플에 쓴 돈이 아까워서 선택했습니다
+- 부스트캠프 학사일정과 동일하게 공휴일은 쉬어갑니다 ~~
 - 나머지 상세사항은 진행하면서 조율해볼 예정입니다.
 
-# 주차별 면접 질문 리스트
+
+# 월요일, 수요일 참가
+- S009_김영인
+- S021_위성철
+- S022_유정주
+- S029_이준복
+- S032_임현규
+- S045_이창준
+
+# 월요일만 참가
+- S006_김성훈
+
+# 수요일 참가
+- S042_홍성준
+
+# 회의실
+1조 회의실 47번
+- https://navercorp.zoom.us/j/93890485021?pwd=UmNEWnQwL1VVZGE1VE1aaTF3a1ZMUT09
+2조 회의실 48번
+- https://navercorp.zoom.us/j/94485150994?pwd=SGZXZ1YxWDFCUFlQTHlPKy9qUUZFQT09
+
+
+# 주차별 면접 질문 리스트 & 팀원
 
 # 1주차
+## 10월 11일 수요일
+### 팀원
+1조
+- S009_김영인
+- S022_유정주
+- S032_임현규
+- S045_이창준
+  
+2조
+- S021_위성철
+- S029_이준복
+- S042_홍성준
 
-## 월요일
+### 질문리스트
+- 옵셔널
+- 클로저
+- ARC
+- Delegate
+- Notification
 
+# 2주차
+## 10월 16일 월요일
 - CS
     - 개발상식
     - 자료구조
@@ -50,28 +92,26 @@ iOS 스터디를 진행하면서 학습한 내용을 기록하는 Repository입�
     - Copy On Write는 어떤 방식으로 동작하는지 설명하시오.
     - Convenience init에 대해 설명하시오.
 
-## 수요일
+## 10월 18일 수요일
+- GCD, Task
+- struct, class, enum, protocol, Extension
+- Swift 성능
 
-- 옵셔널
-- 클로저
-- ARC
-- Delegate
-- Notification
 
-# 2주차
-
-## 월요일
-
+# 3주차
+## 10월 23일 월요일
 - CS
     - 네트워크
     - Git
 - iOS
     - 앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요?
     - 상태 변화에 따라 다른 동작을 처리하기 위한 앱델리게이트 메서드들을 설명하시오.
-    - 앱이 In-Active 상태가 되는 시나리오를 설명하시오.
+    - UINavigationController 설명
+    - TableView가 메모리를 절약하는 방식
     - scene delegate에 대해 설명하시오.
     - UIApplication 객체의 컨트롤러 역할은 어디에 구현해야 하는가?
     - App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.
+    - ViewController의 생명주기를 설명
     - iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가?
     - Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오.
 - Swift
@@ -80,16 +120,13 @@ iOS 스터디를 진행하면서 학습한 내용을 기록하는 Repository입�
     - Struct 가 무엇이고 어떻게 사용하는지 설명하시오.
     - Subscripts에 대해 설명하시오.
 
-## 수요일
+## 10월 25일 수요일
+- MVC, MVVM, MVP 등 iOS에서 쓰는 디자인 패턴들
+- RxSwift, Combine
 
-- GCD
-- struct, class, enum, protocol, Extension
-- Swift 성능
 
-# 3주차
-
-## 월요일
-
+# 4주차
+## 10월 30일 월요일
 - CS
     - 운영체제
 - iOS
@@ -99,6 +136,8 @@ iOS 스터디를 진행하면서 학습한 내용을 기록하는 Repository입�
     - App Bundle의 구조와 역할에 대해 설명하시오.
     - 모든 View Controller 객체의 상위 클래스는 무엇이고 그 역할은 무엇인가?
     - 자신만의 Custom View를 만들려면 어떻게 해야하는지 설명하시오.
+    - stackView의 장점과 단점에 대해서 설명하시오
+    - NSCache와 딕셔너리로 캐시를 구성했을때의 차이
 - Swift
     - String은 왜 subscript로 접근이 안되는지 설명하시오.
     - instance 메서드와 class 메서드의 차이점을 설명하시오.
@@ -106,7 +145,27 @@ iOS 스터디를 진행하면서 학습한 내용을 기록하는 Repository입�
     - Delegate 패턴을 활용하는 경우를 예를 들어 설명하시오.
     - Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.
 
-## 수요일
+## 11월 1일 수요일
 
-- MVC, MVVM, MVP
-- RxSwift, Combine
+
+# 5주차
+## 11월 6일 월요일
+- CS
+  - 디자인 패턴
+- iOS
+  - hugging, resistance에 대해서 설명하시오
+  - Auto Layout과 Frame-based Layout의 차이점은 무엇인가요
+  - Equatable과 Identifiable 차이점
+  - View 객체에 대해 설명하시오.
+  - UIView 에서 Layer 객체는 무엇이고 어떤 역할을 담당하는지 설명하시오.
+  - iOS에서 뷰(View)와 레이어(Layer)의 개념과 차이점에 대해 설명해보세요.
+  - UIWindow 객체의 역할은 무엇인가?
+- Swift
+  - KVO 동작 방식에 대해 설명하시오.
+  - Delegates와 Notification 방식의 차이점에 대해 설명하시오.
+  - 멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오.
+  - MVC 구조에 대해 블록 그림을 그리고, 각 역할과 흐름을 설명하시오.
+  - 프로토콜이란 무엇인지 설명하시오.
+  - Protocol Oriented Programming과 Object Oriented Programming의 차이점을 설명하시오.
+  
+  ## 11월 8일 수요일
