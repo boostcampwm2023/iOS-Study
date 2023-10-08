@@ -46,6 +46,7 @@ iOS 스터디를 진행하면서 학습한 내용을 기록하는 Repository입�
 # 회의실
 1조 회의실 47번
 - https://navercorp.zoom.us/j/93890485021?pwd=UmNEWnQwL1VVZGE1VE1aaTF3a1ZMUT09
+
 2조 회의실 48번
 - https://navercorp.zoom.us/j/94485150994?pwd=SGZXZ1YxWDFCUFlQTHlPKy9qUUZFQT09
 
