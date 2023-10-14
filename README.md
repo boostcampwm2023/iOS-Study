@@ -87,6 +87,7 @@ iOS 스터디를 진행하면서 학습한 내용을 기록하는 Repository입�
 - S009_김영인
 - S045_이창준
 
+### 질문리스트
 - iOS
     - Bounds 와 Frame 의 차이점을 설명하시오.
     - 실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오.
@@ -102,6 +103,7 @@ iOS 스터디를 진행하면서 학습한 내용을 기록하는 Repository입�
     - Convenience init에 대해 설명하시오.
 
 ## 10월 18일 수요일
+### 팀원
 1조
 - S009_김영인
 - S029_이준복
@@ -114,6 +116,7 @@ iOS 스터디를 진행하면서 학습한 내용을 기록하는 Repository입�
 - S022_유정주
 - S045_이창준
 
+### 질문리스트
 - GCD, Task
 - struct, class, enum, protocol, Extension
 - Swift 성능
@@ -121,6 +124,7 @@ iOS 스터디를 진행하면서 학습한 내용을 기록하는 Repository입�
 
 # 3주차
 ## 10월 23일 월요일
+### 질문리스트
 - iOS
     - 앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요?
     - 상태 변화에 따라 다른 동작을 처리하기 위한 앱델리게이트 메서드들을 설명하시오.
@@ -139,11 +143,13 @@ iOS 스터디를 진행하면서 학습한 내용을 기록하는 Repository입�
     - Subscripts에 대해 설명하시오.
 
 ## 10월 25일 수요일
+### 질문리스트
 - MVC, MVVM, MVP 등 iOS에서 쓰는 디자인 패턴들
 - RxSwift, Combine
 
 
 # 4주차
+### 질문리스트
 ## 10월 30일 월요일
 - iOS
     - Delegate란 무엇인지 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오.
@@ -162,10 +168,11 @@ iOS 스터디를 진행하면서 학습한 내용을 기록하는 Repository입�
     - Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.
 
 ## 11월 1일 수요일
-
+### 질문리스트
 
 # 5주차
 ## 11월 6일 월요일
+### 질문리스트
 - iOS
   - hugging, resistance에 대해서 설명하시오
   - Auto Layout과 Frame-based Layout의 차이점은 무엇인가요
@@ -183,3 +190,4 @@ iOS 스터디를 진행하면서 학습한 내용을 기록하는 Repository입�
   - Protocol Oriented Programming과 Object Oriented Programming의 차이점을 설명하시오.
   
   ## 11월 8일 수요일
+  ### 질문리스트
