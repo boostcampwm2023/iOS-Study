@@ -141,19 +141,14 @@ iOS 스터디를 진행하면서 학습한 내용을 기록하는 Repository입�
 
 ### 질문리스트
 - iOS
-    - Delegate란 무엇인지 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오.
-    - NotificationCenter 동작 방식과 활용 방안에 대해 설명하시오.
     - UIKit 클래스들을 다룰 때 꼭 처리해야하는 애플리케이션 쓰레드 이름은 무엇인가?
     - App Bundle의 구조와 역할에 대해 설명하시오.
     - 모든 View Controller 객체의 상위 클래스는 무엇이고 그 역할은 무엇인가?
-    - 자신만의 Custom View를 만들려면 어떻게 해야하는지 설명하시오.
     - stackView의 장점과 단점에 대해서 설명하시오
     - NSCache와 딕셔너리로 캐시를 구성했을때의 차이
 - Swift
     - String은 왜 subscript로 접근이 안되는지 설명하시오.
-    - instance 메서드와 class 메서드의 차이점을 설명하시오.
     - class 메서드와 static 메서드의 차이점을 설명하시오.
-    - Delegate 패턴을 활용하는 경우를 예를 들어 설명하시오.
     - Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.
 
 ## 11월 8일 수요일
