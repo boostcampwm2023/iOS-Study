@@ -3,9 +3,9 @@ iOS 스터디를 진행하면서 학습한 내용을 기록하는 Repository입�
 
 # 스터디원
 
-| <a href="https://github.com/SeongHunTed"><img src="https://avatars.githubusercontent.com/u/42074365?v=4" width="100"></a> | <a href="https://github.com/0inn"><img src="https://avatars.githubusercontent.com/u/74968390?v=4" width="100"></a> | <a href="https://github.com/wi-seong-cheol"><img src="https://avatars.githubusercontent.com/u/53855302?v=4" width="100"></a> | <a href="https://github.com/jeongju9216"><img src="https://avatars.githubusercontent.com/u/89075274?v=4" width="100"></a> | <a href="https://github.com/junbok97"><img src="https://avatars.githubusercontent.com/u/71696675?v=4" width="100"></a> | <a href="https://github.com/hogumachu"><img src="https://avatars.githubusercontent.com/u/74225754?v=4" width="100"></a> | <a href="https://github.com/SwiftyJunnos"><img src="https://avatars.githubusercontent.com/u/138548400?v=4" width="100"></a> |
-| :---: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| S006-김성훈 | S009-김영인 | S021_위성철 | S022_유정주 | S029_이준복 | S042_홍성준 | S045_이창준 | 
+| <a href="https://github.com/SeongHunTed"><img src="https://avatars.githubusercontent.com/u/42074365?v=4" width="100"></a> | <a href="https://github.com/0inn"><img src="https://avatars.githubusercontent.com/u/74968390?v=4" width="100"></a> | <a href="https://github.com/wi-seong-cheol"><img src="https://avatars.githubusercontent.com/u/53855302?v=4" width="100"></a> | <a href="https://github.com/jeongju9216"><img src="https://avatars.githubusercontent.com/u/89075274?v=4" width="100"></a> | <a href="https://github.com/yoondj98"><img src="https://avatars.githubusercontent.com/u/54929503?v=4" width="100"></a> | <a href="https://github.com/junbok97"><img src="https://avatars.githubusercontent.com/u/71696675?v=4" width="100"></a> | <a href="https://github.com/hogumachu"><img src="https://avatars.githubusercontent.com/u/74225754?v=4" width="100"></a> | <a href="https://github.com/SwiftyJunnos"><img src="https://avatars.githubusercontent.com/u/138548400?v=4" width="100"></a> |
+| :---: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| S006-김성훈 | S009-김영인 | S021_위성철 | S022_유정주 | S023_윤동주 | S029_이준복 | S042_홍성준 | S045_이창준 | 
 
 
 
@@ -39,6 +39,7 @@ iOS 스터디를 진행하면서 학습한 내용을 기록하는 Repository입�
 - S006_김성훈
 
 # 수요일 참가
+- S023_윤동주
 - S042_홍성준
 - S045_이창준
   
@@ -94,6 +95,7 @@ iOS 스터디를 진행하면서 학습한 내용을 기록하는 Repository입�
 - S006_김성훈
 - S009_김영인
 - S021_위성철
+- S022_유정주
 
 ### 질문리스트
 - iOS
@@ -118,6 +120,7 @@ iOS 스터디를 진행하면서 학습한 내용을 기록하는 Repository입�
 1조
 - S009_김영인
 - S021_위성철
+- S022_유정주
 - S042_홍성준
 - S045_이창준
 
@@ -130,6 +133,11 @@ iOS 스터디를 진행하면서 학습한 내용을 기록하는 Repository입�
 # 4주차
 ## 11월 6일 월요일
 ### 팀원
+1조
+- S006_김성훈
+- S009_김영인
+- S021_위성철
+- S029_이준복
 
 ### 질문리스트
 - iOS
@@ -150,8 +158,19 @@ iOS 스터디를 진행하면서 학습한 내용을 기록하는 Repository입�
 
 ## 11월 8일 수요일
 ### 팀원
+1조
+- S022_유정주
+- S029_이준복
+- S042_홍성준
 
+2조
+- S009_김영인
+- S021_위성철
+- S023_윤동주
+- S045_이창준
+- 
 ### 질문리스트
+
 
 # 5주차
 ## 11월 13일 월요일
@@ -174,7 +193,7 @@ iOS 스터디를 진행하면서 학습한 내용을 기록하는 Repository입�
   - 프로토콜이란 무엇인지 설명하시오.
   - Protocol Oriented Programming과 Object Oriented Programming의 차이점을 설명하시오.
   
-  ## 11월 15일
+  ## 11월 15일 수요일
   ### 팀원
   ### 질문리스트
 
